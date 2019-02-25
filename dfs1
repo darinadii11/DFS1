@@ -1,0 +1,12 @@
+<div>Word</div>
+  <div>{
+  background: red;
+  width:50 px;
+  height:50 px;
+  margin: 100 px auto
+    border-radius:50%
+    text-aligh
+    
+}
+
+
